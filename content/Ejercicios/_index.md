@@ -1,7 +1,5 @@
 +++
 archetype = "chapter"
-title = "Seccion3"
+title = "Ejercicios"
 weight = 3
 +++
-
-Lorem Ipsum.
