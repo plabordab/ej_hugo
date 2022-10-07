@@ -16,7 +16,7 @@ Con esta opción mostramos una sección de texto expandible
 
 - párrafos múltiples
 - listas con viñetas
-- texto _enfatizado_, **negrita** e incluso **negrita enfatizada_**
+- texto _enfatizado_, **negrita** e incluso **_negrita enfatizada_**
 - [enlaces](../seccion1/shortcodes/)
 - etc.
 
